@@ -1,6 +1,7 @@
 making simple API with Mysql
 
-1. Create (not yet) 
-2. Update (not yet)
-3. Read (not yet)
-4. Delete (not yet)
+1. Create (Done) 
+2. Update (Done)
+3. Read (Done)
+    a. multiple Read (Done)
+4. Delete (Done)
